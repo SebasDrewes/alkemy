@@ -1,0 +1,2 @@
+(this["webpackJsonpong-client"]=this["webpackJsonpong-client"]||[]).push([[40],{834:function(n,t,e){"use strict";e.r(t);e(0);var i=e(1);t.default=function(){return Object(i.jsx)("div",{style:{margin:"20px"},children:"PERFIL DEL USUARIO"})}}}]);
+//# sourceMappingURL=40.37f3b340.chunk.js.map

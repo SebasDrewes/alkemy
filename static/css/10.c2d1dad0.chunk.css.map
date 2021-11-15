@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/FormRegister/FormRegister.scss"],"names":[],"mappings":"AAAA,kBACE,UAAW,CACX,qBAAuB,CACxB,OAEC,aAAuB,CACvB,eAAiB","file":"10.c2d1dad0.chunk.css","sourcesContent":[".MuiTypography-h4 {\n  color: #333;\n  margin: 10px !important;\n}\n.error {\n  color: rgb(247, 67, 67);\n  font-size: 0.8rem;\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/User/index.js"],"names":["User","style","margin"],"mappings":"iHAAA,uBAKeA,UAHF,WACX,OAAO,qBAAKC,MAAO,CAAEC,OAAQ,QAAtB","file":"static/js/40.37f3b340.chunk.js","sourcesContent":["import React from \"react\";\n\nconst User = () => {\n  return <div style={{ margin: \"20px\" }}>PERFIL DEL USUARIO</div>;\n};\nexport default User;\n"],"sourceRoot":""}
